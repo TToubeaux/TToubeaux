@@ -9,7 +9,8 @@
 <h3> Certifications </h3>  
   - Security +
 
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/ttoubeaux
+<script src="https://tryhackme.com/badge/1893510"></script>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
