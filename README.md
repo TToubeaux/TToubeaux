@@ -10,7 +10,7 @@
   - Security +
 
 [linkedin]: https://linkedin.com/in/ttoubeaux
-<script src="https://tryhackme.com/badge/1893510"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/jrgoddess.png" alt="TryHackMe">
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
